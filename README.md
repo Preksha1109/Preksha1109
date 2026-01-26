@@ -1,4 +1,4 @@
-# Hi, I'm an Aerospace / Robotics Engineer 👋
+# Hi, I'm an Aerospace Engineer 👋
 
 I build **physics-based simulations, robotic systems, and perception pipelines** with a strong focus on **space robotics, dynamics, and control**.
 
