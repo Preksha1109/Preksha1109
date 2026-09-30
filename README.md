@@ -15,7 +15,7 @@ I enjoy turning **theoretical models into working, verifiable simulations** and 
 ---
 
 ## 🔧 Technical Skills
-- **Languages:** MATLAB, Python
+- **Languages:** MATLAB, Python, C++
 - **Robotics:** Kinematics, Dynamics, URDF, Floating-base systems
 - **Dynamics:** Lagrangian formulation, inertia tensors, momentum conservation
 - **Simulation:** MATLAB, Simulink, ODE solvers
