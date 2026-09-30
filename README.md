@@ -16,7 +16,7 @@ Predicts satellite–ground station visibility windows from TLEs and assigns con
 Scheduled a sample 6-satellite, 5-station scenario (243 candidate passes over 24 h) to proven optimality in ~10 ms, ~5% better than a greedy baseline; the Rust solver matches the Python optimum exactly.
 
 ### [Satellite Attitude Simulator](https://github.com/Preksha1109/satellite-attitude-simulator) · C++
-Modular framework simulating satellite rigid-body rotational dynamics from Euler's equations, designed so new dynamics and disturbance models can be added without changing the core. 
+Modular C++ simulator of satellite rigid-body attitude dynamics (quaternions, RK4), with pluggable disturbance and control torque models; validated against analytic solutions and conservation laws.
 
 ### [Floating-Base Space Robot Dynamics](https://github.com/Preksha1109/floating-base-space-robot-dynamics) · MATLAB
 MSc dissertation. Lagrangian dynamic model of a 6-DOF robotic arm on a free-floating base in microgravity, validated over 1,000+ time steps against momentum conservation.
