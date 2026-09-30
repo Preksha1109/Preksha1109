@@ -4,6 +4,7 @@ Aerospace engineer building simulation and modelling software for spacecraft dyn
 MSc Aerospace Engineering (Distinction), University of Glasgow · Based in Glasgow, UK
 
 **Languages:** C++ · Python · MATLAB/Simulink · Rust
+
 **Focus:** Orbital and rigid-body dynamics · Numerical simulation · Control and state estimation · Scheduling and optimisation
 
 ---
