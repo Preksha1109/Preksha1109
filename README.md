@@ -21,7 +21,8 @@ Modular C++ simulator of satellite rigid-body attitude dynamics (quaternions, RK
 ### [Floating-Base Space Robot Dynamics](https://github.com/Preksha1109/floating-base-space-robot-dynamics) · MATLAB
 MSc dissertation. Lagrangian dynamic model of a 6-DOF robotic arm on a free-floating base in microgravity, validated over 1,000+ time steps against momentum conservation.
 
-### [Aircraft Pitch Autopilot](https://github.com/Preksha1109/aircraft-pitch-autopilot-lqr-kalman) · Modern control design: LQR + Kalman filter for aircraft longitudinal dynamics with validated robustness analysis
+### [Aircraft Pitch Autopilot](https://github.com/Preksha1109/aircraft-pitch-autopilot-lqr-kalman) · MATLAB
+Modern control design: LQR + Kalman filter for aircraft longitudinal dynamics with validated robustness analysis.
 
 ### [Stereo Vision Robot Localization](https://github.com/Preksha1109/stereo-vision-robot-localization) · MATLAB
 Camera calibration and stereo depth estimation for 3D localisation of a robot target.
