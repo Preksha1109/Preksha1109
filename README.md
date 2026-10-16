@@ -30,6 +30,9 @@ Camera calibration and stereo depth estimation for 3D localisation of a robot ta
 ### [Aerospace Structural Analyzer](https://github.com/Preksha1109/aerospace-structural-analyzer) · Python
 Modular framework for simplified aerospace structural load analysis.
 
+### [FE Solver vs Neural-Network Surrogate](https://github.com/Preksha1109/bar-fe-surrogate) · Python, PyTorch
+1D finite element solver for an axially loaded, tapered bar (stiffness assembly, boundary conditions, sparse solve), verified against the closed-form solution with second-order mesh convergence. Generated 6,000 FE runs across loads and stiffness values and trained a PyTorch neural network to predict the displacement field: 0.06% RMS error on held-out cases and ~500× faster per case when batched, with error rising ~5× outside the training range, a limitation the FE solver doesn't share.
+
 ### [Avocet Systems Engineering Case Study](https://github.com/Preksha1109/avocet-systems-engineering-case-study) · Systems engineering
 AVOCET is a self-directed portfolio project that takes a 6U Earth-observation CubeSat from stakeholder needs through requirements, architecture, interfaces, trade studies, V&V and risk, with full traceability at every step.
 
