@@ -37,6 +37,7 @@ AVOCET is a self-directed portfolio project that takes a 6U Earth-observation Cu
 
 ## Experience
 **Systems Engineer**, Feynman Aerospace · Python and MATLAB performance models; automated analysis pipeline that cut reporting time by 60%
+
 **Electronics Engineer**, STAR Orbitals · Embedded C/C++, telemetry and test for CubeSat avionics
 
 📫 [LinkedIn](https://linkedin.com/in/prekshakrishnan) · prekshakrish@gmail.com
